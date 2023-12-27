@@ -21,6 +21,6 @@ I'm a passionate Computer Science graduate from Eastern Michigan University with
 
 ## Connect with Me
 
-- LinkedIn: [](https://www.linkedin.com/in/safauldeen-alrufaye-54a51a1ba)
+- LinkedIn: [](www.linkedin.com/in/safauldeen-alrufaye-54a51a1ba)
 - Portfolio: [Your Portfolio](link)
 - Email: Salrufaye@gmail.com
