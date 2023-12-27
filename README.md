@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Computer Science graduate from Eastern Michigan University with a knack for leveraging technology to streamline operations and enhance efficiency. As a former Senior Buyer at HOLLINGSWORTH, I've honed my skills in supply chain management, melding it seamlessly with my tech expertise.
+I'm a passionate Computer Science graduate from Eastern Michigan University with a knack for leveraging technology to streamline operations and enhance efficiency. As a  Senior Buyer, I've honed my skills in supply chain management, melding it seamlessly with my tech expertise.
 
 ## Skills
 
@@ -21,6 +21,6 @@ I'm a passionate Computer Science graduate from Eastern Michigan University with
 
 ## Connect with Me
 
-- LinkedIn: [(www.linkedin.com/in/safauldeen-alrufaye-54a51a1ba)]
+- LinkedIn: [Safauldeen Alrufaye](www.linkedin.com/in/safauldeen-alrufaye-54a51a1ba)
 - Portfolio: [Your Portfolio](link)
 - Email: Salrufaye@gmail.com
