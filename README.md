@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Safauldeen Alrufaye 👋
 
-<!--
-**SafauldeenA/SafauldeenA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate Computer Science graduate from Eastern Michigan University with a knack for leveraging technology to streamline operations and enhance efficiency. As a former Senior Buyer at HOLLINGSWORTH, I've honed my skills in supply chain management, melding it seamlessly with my tech expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages: JavaScript, SQL, C++, Python.
+- Software Development
+- Data Structures & Algorithms
+- Supply Chain Management
+- SAP Software
+- Customer Service & Relations
+
+## Projects
+
+- [Project Name](link): Brief description
+- [Project Name](link): Brief description
+- [Project Name](link): Brief description
+
+## Connect with Me
+
+- LinkedIn: [](https://www.linkedin.com/in/safauldeen-alrufaye-54a51a1ba)
+- Portfolio: [Your Portfolio](link)
+- Email: Salrufaye@gmail.com
