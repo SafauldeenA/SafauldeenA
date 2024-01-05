@@ -15,7 +15,7 @@ I'm a passionate Computer Science graduate from Eastern Michigan University with
 
 ## Projects
 
-- [Project Name](link): Brief description
+- [To-Do-List-App](https://github.com/SafauldeenA/To-Do-List-App.git): To-Do List App This repository contains a basic To-Do List application built using HTML, CSS, and JavaScript. It allows users to add, update, and delete tasks on their to-do list.
 - [Project Name](link): Brief description
 - [Project Name](link): Brief description
 
